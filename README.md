@@ -8,7 +8,7 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 
 ## How To Use These Exercises
 
-1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on    how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
    - Copies of repositories on your machine are called clones. If you need help cloning to your local environment you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 1. Before you start working on any exercises, you should first ensure you have the following installed:
 
